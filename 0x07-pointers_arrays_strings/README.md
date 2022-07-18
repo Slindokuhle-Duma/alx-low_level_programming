@@ -1,0 +1,2 @@
+An array of pointers to strings is an array of character pointers where each pointer points to the first character of the string or the base address of the string. 
+Array in C is used to store elements of same types whereas Pointers are address varibles which stores the address of a variable. 
