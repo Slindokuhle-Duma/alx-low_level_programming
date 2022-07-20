@@ -31,6 +31,13 @@ void print_number(int n)
       else
         _putchar((n / power % 10) * -1 + '0');
 
+<<<<<<< HEAD
+	if ((num / 10) > 0)
+		print_number(num / 10);
+
+	_putchar((num % 10) + '0');
+}
+=======
       power /= 10;
     }
     if (power == 1)
@@ -43,3 +50,4 @@ void print_number(int n)
     }
   }
 }
+>>>>>>> 5b9514ef0f8fc5480343d4cb03edebc3cb98c701
