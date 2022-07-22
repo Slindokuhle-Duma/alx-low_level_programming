@@ -10,6 +10,6 @@ int main(void)
 
 {
 	_puts("\"At the end of the day, my goal was to be the best hacker\"");
-	_puts("\- kevin Mitnick")
+	_puts("\t- kevin Mitnick");
 	return (0);
 }
